@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavesh Bohra 👋
 
-I'm an aspiring data scientist with a strong foundation in mathematics and over 3.5 years of experience as an Assistant Professor. Currently, I'm pursuing an MTech in IT with a specialization in Machine Learning and Intelligent Systems at IIIT-Allahabad.
+Currently, I'm pursuing an MTech in IT with a specialization in Machine Learning and Intelligent Systems at IIIT-Allahabad. I'm an aspiring data scientist with a strong foundation in mathematics and over 3.5 years of experience as an Assistant Professor in Mathematics. 
 
 I'm diving deep into Python, SQL, and various domains within Machine Learning such as Deep Learning, Natural Language Processing, and Computer Vision.
 
