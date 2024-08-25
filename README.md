@@ -7,7 +7,7 @@ I'm diving deep into Python, SQL, and various domains within Machine Learning su
 ## 🌱 My Skills:
 - Proficient in Python and SQL.
 - Comprehensive knowledge in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Large Language Models (LLM).
-- Experienced in PyTorch, scikit-learn, TensorFlow, Keras, Langchain, FastAPI, Flask, Pandas, NumPy, Seaborn, Matplotlib, and MySQL.
+- Experienced in PyTorch, scikit-learn, TensorFlow, Keras, Langchain, Flask, Pandas, NumPy, Seaborn, Matplotlib, and MySQL.
 
 ## 💼 My Passion:
 I'm deeply passionate about utilizing data-driven insights to make meaningful contributions to the ever-evolving field of data science.
@@ -16,4 +16,5 @@ I'm deeply passionate about utilizing data-driven insights to make meaningful co
 I'm currently learning about GEN AI and MLOps, and I'm excited to apply my skills and expertise to innovative projects in the fields of Machine Learning, Deep Learning, and Natural Language Processing. I welcome connections with professionals and enthusiasts alike. Let's explore the vast potential of data science together!
 
 ## 📫 How to Reach Me:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhavesh-bohra/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhavesh-bohra/)!I'm actively seeking new job opportunities in the AI and Data Science domain. You can reach me at <a href="mailto:bbohra.inbox@gmail.com">bbohra.inbox@gmail.com</a> or <a href="tel:+918141518086">+91 81415 18086</a>.
+
